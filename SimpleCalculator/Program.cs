@@ -35,7 +35,8 @@ namespace SimpleCalculator
                     break;
 
             }
-                    Console.Read();
+            
+            Console.Read();
 
         } 
     }
